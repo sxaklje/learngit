@@ -1,2 +1,2 @@
 hello world
-crate  a branch is quick and simple
+crate  a branch is quick & simple
